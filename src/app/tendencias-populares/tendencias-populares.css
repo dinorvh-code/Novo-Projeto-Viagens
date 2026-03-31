@@ -1,0 +1,7 @@
+.tendencias-populares{
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+}

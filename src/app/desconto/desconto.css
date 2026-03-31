@@ -1,0 +1,85 @@
+.desconto{
+    width: 1530px;
+    height: 514px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    background-image: url("assets/images/banner02-descontos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    border: none;
+    font-weight: normal;
+    margin-top: 80px;
+}
+
+.titulo-desconto{
+    width: 365.53px;
+    height: 104px;
+    flex-wrap: wrap;
+    font-size: 39.53px;
+    font-weight: bold;
+}
+
+.subtitulos-desconto{
+    display: flex;
+    width: 313.83px;
+    height: 60px;
+}
+
+.subtitulo02-desconto{
+    margin-top: 10px;
+}
+
+.comando-botoes{
+    width: 476px;
+    height: 94px;
+    flex-direction: column;
+}
+
+.comando-desconto{
+    font-size: 17.58px
+}
+
+.email-btn-descontos{
+width: 476px;
+height: 62;
+display: flex;
+flex-direction: row;
+gap: 05px;
+margin-top: 10px;
+}
+
+.email-descontos{
+    width: 350px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: white;
+}
+
+.texto-email{
+    color: gray;
+    padding: 20px;
+}
+
+.enviar{
+width: 107.88px;
+height: 60px;
+border-radius: 10px;
+border: none;
+}
+
+.informacoes-desconto{
+    width: 1314px;
+    height: 308px;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    color: white;
+    margin: 100px;
+    justify-content: space-between;
+}

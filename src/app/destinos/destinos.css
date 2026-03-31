@@ -1,0 +1,94 @@
+.destinos{
+    width: 1320px;
+    height: 390.25px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    gap: 75px;
+}
+
+.titulo-destinos{
+    font-size: 29.88px;
+    font-weight: bold;
+}
+
+.blocodestinos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.descricao-destinos{
+    font-size: 15.25px;
+    font-weight: bold;
+}
+
+.minidescricao-destinos{
+    font-size: 13.23px;
+}
+
+.destino-01{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-02{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-03{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-04{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-05{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-06{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-07{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.destino-08{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.titulos-destinos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.minititulo-destinos{
+    font-size: 14.3px;
+}

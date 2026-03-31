@@ -1,0 +1,84 @@
+.banner01{
+background-repeat: no-repeat;
+background-size: cover;
+height: 700px;
+width: 1800px;
+border-radius: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.section-center{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.titulo-b1{
+    font-size: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.descricao-b1{
+color: white;
+}
+
+.bloco02{
+    height: 100px;
+    width: 750px;
+    margin-top: 75px;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+}
+
+.bloco02{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 850px;
+    gap: 20px;
+}
+
+.quadradinho-b2{
+    width: 50px;
+    height: 50px;
+    border: 001px solid gray;
+    opacity: 25%;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn-banner01{
+    width: 135px;
+    height: 60px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.titulo-b2{
+    font-weight: 600;
+}
+
+.descricao-b2{
+    color: gray;
+    font-size: 13.67px;
+    margin-top: 05px;
+}
+
+.bi{
+    font-size: 50px;
+    color: orangered;
+    }

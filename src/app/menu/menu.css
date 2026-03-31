@@ -1,0 +1,50 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 88px;
+    justify-content: center;
+    gap: 40px;
+    }
+
+    .logo{
+width: 167px;
+}
+
+.pesquisa{
+    width: 223px;
+    font-size: 14px;
+}
+
+.texto-pesquisa{
+    color: darkgrey;
+    font-size: 14px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+
+}
+
+li{
+    list-style: none;
+    display: flex;
+}
+
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.btn-login{
+    width: 83px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 200px;
+    height: 44px;
+}
