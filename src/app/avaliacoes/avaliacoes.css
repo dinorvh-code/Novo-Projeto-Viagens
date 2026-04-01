@@ -1,6 +1,5 @@
 .avaliacoes{
     width: 1320px;
-    height: 611px;
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -10,7 +9,7 @@
 
 .foto-perfil{
     width: 100px;
-    height: 100px
+    padding: 10px;
 }
 
 .titulo-avaliacoes{
@@ -33,13 +32,16 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 10px;
+
 }
 
 .descricao-avaliacoes{
     display: flex;
     width: 604.59px;
-    height: 101px;
-    gap: 25px;
     flex-direction: column;
+}
+
+.section-center{
+    display: flex;
+    justify-content: center;
 }

@@ -92,3 +92,8 @@
 .minititulo-destinos{
     font-size: 14.3px;
 }
+
+.section-center{
+    display: flex;
+    justify-content: center;
+}

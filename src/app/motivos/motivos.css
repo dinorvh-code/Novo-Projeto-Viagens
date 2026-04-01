@@ -60,3 +60,8 @@
     gap: 25px;
     
 }
+
+.section-center{
+    display: flex;
+    justify-content: center;
+}

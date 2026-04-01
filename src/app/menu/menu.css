@@ -48,3 +48,8 @@ li a{
     border-radius: 200px;
     height: 44px;
 }
+
+.section-center{
+    display: flex;
+    justify-content: center;
+}

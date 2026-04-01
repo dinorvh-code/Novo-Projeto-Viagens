@@ -2,6 +2,7 @@
     height: 575.13px;
     border-radius: 15px;
     width: 1530px;
+     background-image: url('/assets/images/background-desconto.png');
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -11,7 +12,6 @@
 }
 
 .textos-caixote{
-    margin-top: 125px;
     width: 1250px;
     height: 500px;
 }
@@ -64,4 +64,9 @@
     font-size: 40px;
     font-weight: bold;
     flex-direction: column;
+}
+
+.section-center{
+    display: flex;
+    justify-content: center;
 }

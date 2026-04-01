@@ -1,7 +1,7 @@
 footer{
-    background-image: url("assets/images/background-footer-final.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: url('/assets/images/background-footer-final.png');
 }
 
 .footer{
@@ -145,4 +145,9 @@ ul{
 .imgs-finais{
     display: flex;
     flex-direction: row;
+}
+
+.section-center{
+    display: flex;
+    justify-content: center;
 }
