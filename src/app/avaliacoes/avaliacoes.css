@@ -2,14 +2,12 @@
     width: 1320px;
     display: flex;
     flex-direction: column;
-    padding: 10px;
     align-items: center;
     justify-content: space-evenly;
 }
 
 .foto-perfil{
     width: 100px;
-    padding: 10px;
 }
 
 .titulo-avaliacoes{
